@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\x64\\unrealgame\\development\\shootercoreruntime\\module.shootercoreruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\x64\\unrealgame\\development\\shootercoreruntime\\definitions.shootercoreruntime.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealgame\\inc\\shootercoreruntime\\uht\\controlpointstatusmessage.gen.cpp",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\messages\\controlpointstatusmessage.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealgame\\inc\\shootercoreruntime\\uht\\controlpointstatusmessage.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealgame\\inc\\shootercoreruntime\\uht\\iaimassisttargetinterface.gen.cpp",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\input\\iaimassisttargetinterface.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\input\\aimassistinputmodifier.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\scalablefloat.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\dataregistry\\source\\dataregistry\\public\\dataregistryid.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\dataregistry\\intermediate\\build\\win64\\unrealgame\\inc\\dataregistry\\uht\\dataregistryid.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealgame\\inc\\gameplayabilities\\uht\\scalablefloat.generated.h",
+            "g:\\lyracity_5.4\\source\\lyragame\\input\\lyrainputmodifiers.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealgame\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealgame\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "g:\\lyracity_5.4\\intermediate\\build\\win64\\unrealgame\\inc\\lyragame\\uht\\lyrainputmodifiers.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealgame\\inc\\shootercoreruntime\\uht\\aimassistinputmodifier.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealgame\\inc\\shootercoreruntime\\uht\\iaimassisttargetinterface.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealgame\\inc\\shootercoreruntime\\uht\\shootercoreruntime.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

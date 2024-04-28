@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootertests\\source\\shootertestsruntime\\private\\shootertestsdevicepropertytester.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\x64\\unrealgame\\development\\shootertestsruntime\\definitions.shootertestsruntime.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootertests\\source\\shootertestsruntime\\private\\shootertestsdevicepropertytester.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\unrealgame\\inc\\shootertestsruntime\\uht\\shootertestsdevicepropertytester.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\inputdevicesubsystem.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\inputsettings.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerinput.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\gesturerecognizer.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\keystate.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\playerinput.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\developersettings\\public\\engine\\platformsettings.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\developersettings\\public\\engine\\platformsettingsmanager.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\developersettings\\uht\\platformsettingsmanager.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\developersettings\\uht\\platformsettings.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\inputsettings.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\inputdevicesubsystem.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\capsulecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

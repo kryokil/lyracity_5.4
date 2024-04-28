@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootertestsruntime\\module.shootertestsruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootertestsruntime\\definitions.shootertestsruntime.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\unrealeditor\\inc\\shootertestsruntime\\uht\\shootertestsdevicepropertytester.gen.cpp",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootertests\\source\\shootertestsruntime\\private\\shootertestsdevicepropertytester.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\unrealeditor\\inc\\shootertestsruntime\\uht\\shootertestsdevicepropertytester.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\unrealeditor\\inc\\shootertestsruntime\\uht\\shootertestsruntime.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

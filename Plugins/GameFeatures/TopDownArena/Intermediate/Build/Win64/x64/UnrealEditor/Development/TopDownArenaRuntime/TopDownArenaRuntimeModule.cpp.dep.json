@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamefeatures\\topdownarena\\source\\topdownarenaruntime\\private\\topdownarenaruntimemodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\topdownarenaruntime\\definitions.topdownarenaruntime.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\topdownarena\\source\\topdownarenaruntime\\public\\topdownarenaruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

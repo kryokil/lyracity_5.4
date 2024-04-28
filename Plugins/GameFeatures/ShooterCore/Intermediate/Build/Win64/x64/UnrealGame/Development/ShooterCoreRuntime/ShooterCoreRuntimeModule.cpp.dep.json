@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\private\\shootercoreruntimemodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\x64\\unrealgame\\development\\shootercoreruntime\\definitions.shootercoreruntime.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\shootercoreruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

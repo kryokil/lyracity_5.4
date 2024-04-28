@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamefeatures\\topdownarena\\source\\topdownarenaruntime\\private\\lyracameramode_topdownarenacamera.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\topdownarenaruntime\\definitions.topdownarenaruntime.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\topdownarena\\source\\topdownarenaruntime\\public\\lyracameramode_topdownarenacamera.h",
+            "g:\\lyracity_5.4\\source\\lyragame\\camera\\lyracameramode.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "g:\\lyracity_5.4\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyracameramode.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\unrealeditor\\inc\\topdownarenaruntime\\uht\\lyracameramode_topdownarenacamera.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\topdownarena\\intermediate\\build\\win64\\unrealeditor\\inc\\topdownarenaruntime\\uht\\lyracameramode_topdownarenacamera.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

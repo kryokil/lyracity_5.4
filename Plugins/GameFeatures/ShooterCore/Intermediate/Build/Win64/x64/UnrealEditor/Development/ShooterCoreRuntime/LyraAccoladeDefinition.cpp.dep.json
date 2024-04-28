@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\private\\accolades\\lyraaccoladedefinition.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootercoreruntime\\definitions.shootercoreruntime.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\accolades\\lyraaccoladedefinition.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\lyraaccoladedefinition.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\lyraaccoladedefinition.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
