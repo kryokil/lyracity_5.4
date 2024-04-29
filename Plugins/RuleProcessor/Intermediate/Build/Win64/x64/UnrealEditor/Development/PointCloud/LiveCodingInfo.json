@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PointCloud.cpp.obj": [
+			"PointCloud.gen.cpp.obj",
+			"PointCloud.init.gen.cpp.obj",
+			"PointCloudImpl.gen.cpp.obj",
+			"PointCloudSliceAndDiceCommandlet.gen.cpp.obj",
+			"PointCloudSliceAndDiceCustomOverrides.gen.cpp.obj",
+			"PointCloudSliceAndDiceManager.gen.cpp.obj",
+			"PointCloudSliceAndDiceRule.gen.cpp.obj",
+			"PointCloudSliceAndDiceRuleData.gen.cpp.obj",
+			"PointCloudSliceAndDiceRuleSet.gen.cpp.obj",
+			"PointCloudSliceAndDiceRuleSlot.gen.cpp.obj",
+			"PointCloudSliceAndDiceShared.gen.cpp.obj",
+			"PointCloudView.gen.cpp.obj"
+		]
+	}
+}

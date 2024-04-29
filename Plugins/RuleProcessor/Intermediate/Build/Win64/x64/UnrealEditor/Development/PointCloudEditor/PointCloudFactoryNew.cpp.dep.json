@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloudeditor\\private\\factories\\pointcloudfactorynew.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pointcloudeditor\\definitions.pointcloudeditor.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloudeditor\\private\\factories\\pointcloudfactorynew.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\intermediate\\build\\win64\\unrealeditor\\inc\\pointcloudeditor\\uht\\pointcloudfactorynew.generated.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloudimpl.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloud.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloudconfig.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\intermediate\\build\\win64\\unrealeditor\\inc\\pointcloud\\uht\\pointcloud.generated.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloudsqlitehelpers.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloudtablescache.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\containers\\lrucache.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\intermediate\\build\\win64\\unrealeditor\\inc\\pointcloud\\uht\\pointcloudimpl.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\private\\editcondition\\whenplayingasprimaryplayer.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\intermediate\\build\\win64\\x64\\unrealgame\\development\\gamesettings\\definitions.gamesettings.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\public\\editcondition\\whenplayingasprimaryplayer.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\public\\gamesettingfilterstate.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\textfilterexpressionevaluator.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\expressionparser.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\textfilterutils.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealgame\\inc\\gamesettings\\uht\\gamesettingfilterstate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

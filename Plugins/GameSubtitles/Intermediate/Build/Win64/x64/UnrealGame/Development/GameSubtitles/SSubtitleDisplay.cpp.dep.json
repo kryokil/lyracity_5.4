@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamesubtitles\\source\\private\\widgets\\ssubtitledisplay.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\intermediate\\build\\win64\\x64\\unrealgame\\development\\gamesubtitles\\definitions.gamesubtitles.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\source\\public\\widgets\\ssubtitledisplay.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\subtitlemanager.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\text\\srichtextblock.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\slatehyperlinkrun.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\ilayoutblock.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\irunrenderer.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\islaterun.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\itextdecorator.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\textdecorators.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\slatewidgetrun.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\slatetextlayoutfactory.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\text\\slatetextlayout.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

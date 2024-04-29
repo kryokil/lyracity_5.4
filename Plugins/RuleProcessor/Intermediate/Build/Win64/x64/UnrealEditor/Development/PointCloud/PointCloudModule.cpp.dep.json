@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\private\\pointcloudmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pointcloud\\definitions.pointcloud.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloud.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloudconfig.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\intermediate\\build\\win64\\unrealeditor\\inc\\pointcloud\\uht\\pointcloud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

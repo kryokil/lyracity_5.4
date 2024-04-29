@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\commonuser\\source\\commonuser\\private\\asyncaction_commonuserinitialize.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\commonuser\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commonuser\\definitions.commonuser.h",
+            "g:\\lyracity_5.4\\plugins\\commonuser\\source\\commonuser\\public\\asyncaction_commonuserinitialize.h",
+            "g:\\lyracity_5.4\\plugins\\commonuser\\source\\commonuser\\public\\commonusersubsystem.h",
+            "g:\\lyracity_5.4\\plugins\\commonuser\\source\\commonuser\\public\\commonusertypes.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "g:\\lyracity_5.4\\plugins\\commonuser\\intermediate\\build\\win64\\unrealeditor\\inc\\commonuser\\uht\\commonusertypes.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "g:\\lyracity_5.4\\plugins\\commonuser\\intermediate\\build\\win64\\unrealeditor\\inc\\commonuser\\uht\\commonusersubsystem.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineidentityinterface.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlineerror.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\cancellableasyncaction.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cancellableasyncaction.generated.h",
+            "g:\\lyracity_5.4\\plugins\\commonuser\\intermediate\\build\\win64\\unrealeditor\\inc\\commonuser\\uht\\asyncaction_commonuserinitialize.generated.h",
+            "g:\\lyracity_5.4\\plugins\\commonuser\\intermediate\\build\\win64\\unrealeditor\\inc\\commonuser\\uht\\asyncaction_commonuserinitialize.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

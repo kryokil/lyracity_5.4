@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystemeditor\\private\\assettypeactions_wadvehaudiopreset.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\worldaudiodatasystemeditor\\definitions.worldaudiodatasystemeditor.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystemeditor\\private\\assettypeactions_wadvehaudiopreset.h",
+            "e:\\games\\ue_5.4\\engine\\source\\developer\\assettools\\public\\assettypeactions_base.h",
+            "e:\\games\\ue_5.4\\engine\\source\\developer\\assettools\\public\\iassettools.h",
+            "e:\\games\\ue_5.4\\engine\\source\\developer\\assettools\\public\\assettypecategories.h",
+            "e:\\games\\ue_5.4\\engine\\source\\developer\\assettools\\public\\iassettypeactions.h",
+            "e:\\games\\ue_5.4\\engine\\source\\developer\\merge\\public\\merge.h",
+            "e:\\games\\ue_5.4\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailmanager.h",
+            "e:\\games\\ue_5.4\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailrenderer.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailmanager.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\automatedassetimportdata.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\automatedassetimportdata.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\assettools\\uht\\iassettools.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\developer\\assettools\\public\\assettoolsmodule.h",
+            "e:\\games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\toolkits\\simpleasseteditor.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\public\\worldaudiodatavehaudiopreset.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\intermediate\\build\\win64\\unrealeditor\\inc\\worldaudiodatasystem\\uht\\worldaudiodatavehaudiopreset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\private\\game\\citysampleplayfromhere.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\x64\\unrealgame\\development\\citysample\\definitions.citysample.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\game\\citysampleplayfromhere.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\worldpartition\\datalayer\\actordatalayer.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\worldpartition\\datalayer\\datalayerinstance.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\worldpartition\\datalayer\\datalayertype.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\datalayertype.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\datalayerinstance.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\actordatalayer.generated.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealgame\\inc\\citysample\\uht\\citysampleplayfromhere.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\worldpartition\\datalayer\\worlddatalayers.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\worldpartition\\datalayer\\datalayer.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\datalayer.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\worldpartition\\datalayer\\datalayerinstanceproviderinterface.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\datalayerinstanceproviderinterface.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\worldpartition\\datalayer\\externaldatalayerasset.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\worldpartition\\datalayer\\datalayerasset.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\datalayerasset.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\worldpartition\\datalayer\\externaldatalayeruid.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\externaldatalayeruid.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\externaldatalayerasset.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\pushmodel\\pushmodel.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\externalpackagehelper.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\worlddatalayers.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

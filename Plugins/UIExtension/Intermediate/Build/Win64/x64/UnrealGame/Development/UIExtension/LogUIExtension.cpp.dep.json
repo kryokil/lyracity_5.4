@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\uiextension\\source\\private\\loguiextension.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\uiextension\\intermediate\\build\\win64\\x64\\unrealgame\\development\\uiextension\\definitions.uiextension.h",
+            "g:\\lyracity_5.4\\plugins\\uiextension\\source\\private\\loguiextension.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

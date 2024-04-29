@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\private\\levelinstance\\citysampleconvertedismactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\x64\\unrealgame\\development\\citysample\\definitions.citysample.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\levelinstance\\citysampleconvertedismactor.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealgame\\inc\\citysample\\uht\\citysampleconvertedismactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\private\\widgets\\responsive\\sgameresponsivepanel.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamesettings\\definitions.gamesettings.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\private\\widgets\\responsive\\sgameresponsivepanel.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\applicationcore\\public\\hal\\platformapplicationmisc.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\applicationcore\\public\\windows\\windowsplatformapplicationmisc.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\applicationcore\\public\\genericplatform\\genericplatformapplicationmisc.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\sviewport.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

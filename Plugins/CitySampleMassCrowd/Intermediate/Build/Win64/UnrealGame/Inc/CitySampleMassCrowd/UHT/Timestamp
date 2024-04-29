@@ -1,0 +1,16 @@
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\CitySampleDebugVisualization.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\CitySampleDisplayEntitiesProcessor.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\CitySampleMassCrowdRepresentationActorManagement.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\IMassCrowdActor.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\MassCrowdAnimationProcessor.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\MassCrowdAnimationTypes.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\MassCrowdUpdateISMVertexAnimationProcessor.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\SmartObjectMassInteractionDefinition.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\Animation\MassCharacterMovementInfo_AnimInput.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\Animation\MassCharacterProximity_AnimInput.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\Animation\MassCharacterStopPrediction_AnimInput.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\Animation\MassCrowdAnimationSettings.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\Animation\MassCrowdAnimInstance.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\Animation\MassCrowdContextualAnimTypes.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Public\Animation\MassPlayerAnimInstance.h
+G:\lyracity_5.4\Plugins\CitySampleMassCrowd\Source\CitySampleMassCrowd\Private\Tasks\MassContextualAnimTask.h

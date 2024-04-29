@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\private\\worldaudiodatasettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\worldaudiodatasystem\\definitions.worldaudiodatasystem.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\public\\worldaudiodatasettings.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\public\\worldaudiodatagameplayscript.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\intermediate\\build\\win64\\unrealeditor\\inc\\worldaudiodatasystem\\uht\\worldaudiodatagameplayscript.generated.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\intermediate\\build\\win64\\unrealeditor\\inc\\worldaudiodatasystem\\uht\\worldaudiodatasettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

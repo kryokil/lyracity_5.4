@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Crossfader.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\lyracity_5.4\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"G:\lyracity_5.4\Plugins\Crossfader\Intermediate\Build\Win64\x64\UnrealEditor\Development\Crossfader\Module.Crossfader.cpp.obj"
+"G:\lyracity_5.4\Plugins\Crossfader\Intermediate\Build\Win64\x64\UnrealEditor\Development\Crossfader\Crossfader.cpp.obj"
+"G:\lyracity_5.4\Plugins\Crossfader\Intermediate\Build\Win64\x64\UnrealEditor\Development\Crossfader\CrossfaderSubsystem.cpp.obj"
+"G:\lyracity_5.4\Plugins\Crossfader\Intermediate\Build\Win64\x64\UnrealEditor\Development\Crossfader\MixStateBank.cpp.obj"
+"G:\lyracity_5.4\Plugins\Crossfader\Intermediate\Build\Win64\x64\UnrealEditor\Development\Crossfader\Default.rc2.res"
+/OUT:"G:\lyracity_5.4\Plugins\Crossfader\Intermediate\Build\Win64\x64\UnrealEditor\Development\Crossfader\UnrealEditor-Crossfader.lib"

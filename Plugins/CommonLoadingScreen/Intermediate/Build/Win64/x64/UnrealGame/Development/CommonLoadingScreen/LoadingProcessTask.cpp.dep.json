@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocesstask.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\x64\\unrealgame\\development\\commonloadingscreen\\definitions.commonloadingscreen.h",
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocesstask.h",
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocessinterface.h",
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\loadingprocessinterface.generated.h",
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\loadingprocesstask.generated.h",
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingscreenmanager.h",
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\loadingscreenmanager.generated.h",
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\loadingprocesstask.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

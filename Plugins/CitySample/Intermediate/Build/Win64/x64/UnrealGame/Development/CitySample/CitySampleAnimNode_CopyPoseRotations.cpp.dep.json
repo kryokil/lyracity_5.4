@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\private\\anim\\citysampleanimnode_copyposerotations.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\x64\\unrealgame\\development\\citysample\\definitions.citysample.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\anim\\citysampleanimnode_copyposerotations.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealgame\\inc\\citysample\\uht\\citysampleanimnode_copyposerotations.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\animation\\animinstanceproxy.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\animation\\animtrace.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\objecttrace.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\tracefilter.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\objecttrace.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\animation\\animattributes.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animinstanceproxy.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\animation\\animcurveutils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

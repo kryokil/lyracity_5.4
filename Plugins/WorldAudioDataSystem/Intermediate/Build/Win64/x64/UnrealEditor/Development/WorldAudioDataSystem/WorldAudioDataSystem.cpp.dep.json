@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\private\\worldaudiodatasystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\worldaudiodatasystem\\definitions.worldaudiodatasystem.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\public\\worldaudiodatasystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\private\\ui\\citysampletypesui.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\x64\\unrealgame\\development\\citysample\\definitions.citysample.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\ui\\citysampletypesui.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealgame\\inc\\citysample\\uht\\citysampletypesui.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\image.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\widget.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\fieldnotificationdeclaration.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\ifieldnotificationclassdescriptor.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\inotifyfieldvaluechanged.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\fieldnotification\\uht\\inotifyfieldvaluechanged.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\visual.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\visual.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\slatewrappertypes.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\slatewrappertypes.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\slate\\widgettransform.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\widgettransform.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetnavigation.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\types\\navigationmetadata.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\widgetnavigation.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\widget.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\slate\\slatetextureatlasinterface.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\slatetextureatlasinterface.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\misc\\packageaccesstracking.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\image.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\textblock.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\textwidgettypes.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\textwidgettypes.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\textblock.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

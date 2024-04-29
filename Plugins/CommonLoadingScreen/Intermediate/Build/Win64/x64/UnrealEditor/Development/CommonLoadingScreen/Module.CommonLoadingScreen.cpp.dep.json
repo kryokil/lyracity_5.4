@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commonloadingscreen\\module.commonloadingscreen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commonloadingscreen\\definitions.commonloadingscreen.h",
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\uht\\commonloadingscreen.init.gen.cpp",
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\uht\\loadingprocessinterface.gen.cpp",
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocessinterface.h",
+            "g:\\lyracity_5.4\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealeditor\\inc\\commonloadingscreen\\uht\\loadingprocessinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

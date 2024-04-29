@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\private\\editcondition\\whenplatformhastrait.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamesettings\\definitions.gamesettings.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\public\\editcondition\\whenplatformhastrait.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\public\\gamesettingfilterstate.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\textfilterexpressionevaluator.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\expressionparser.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\textfilterutils.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesettings\\uht\\gamesettingfilterstate.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\commonui\\source\\commonui\\public\\commonuivisibilitysubsystem.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\commonui\\intermediate\\build\\win64\\unrealeditor\\inc\\commonui\\uht\\commonuivisibilitysubsystem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

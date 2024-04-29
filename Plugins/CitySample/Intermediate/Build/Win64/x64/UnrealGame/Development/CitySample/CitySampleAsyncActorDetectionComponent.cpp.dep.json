@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\private\\game\\citysampleasyncactordetectioncomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\x64\\unrealgame\\development\\citysample\\definitions.citysample.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\game\\citysampleasyncactordetectioncomponent.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\modulargameplay\\source\\modulargameplay\\public\\components\\gameframeworkcomponent.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\modulargameplay\\intermediate\\build\\win64\\unrealgame\\inc\\modulargameplay\\uht\\gameframeworkcomponent.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\scalablefloat.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\dataregistry\\source\\dataregistry\\public\\dataregistryid.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\dataregistry\\intermediate\\build\\win64\\unrealgame\\inc\\dataregistry\\uht\\dataregistryid.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealgame\\inc\\gameplayabilities\\uht\\scalablefloat.generated.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealgame\\inc\\citysample\\uht\\citysampleasyncactordetectioncomponent.generated.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\citysample.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

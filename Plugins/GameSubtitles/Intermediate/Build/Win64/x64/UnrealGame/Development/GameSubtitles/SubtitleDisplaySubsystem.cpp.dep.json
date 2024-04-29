@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamesubtitles\\source\\private\\subtitledisplaysubsystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\intermediate\\build\\win64\\x64\\unrealgame\\development\\gamesubtitles\\definitions.gamesubtitles.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\source\\public\\subtitledisplaysubsystem.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\source\\public\\subtitledisplayoptions.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealgame\\inc\\gamesubtitles\\uht\\subtitledisplayoptions.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealgame\\inc\\gamesubtitles\\uht\\subtitledisplaysubsystem.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealgame\\inc\\gamesubtitles\\uht\\subtitledisplaysubsystem.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

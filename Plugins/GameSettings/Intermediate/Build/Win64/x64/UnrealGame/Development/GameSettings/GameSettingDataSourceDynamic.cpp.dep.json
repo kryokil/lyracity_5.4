@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\private\\datasource\\gamesettingdatasourcedynamic.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\intermediate\\build\\win64\\x64\\unrealgame\\development\\gamesettings\\definitions.gamesettings.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\public\\datasource\\gamesettingdatasourcedynamic.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\public\\datasource\\gamesettingdatasource.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\propertypath\\public\\propertypathhelpers.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\propertypath\\public\\propertytypecompatibility.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\propertypath\\uht\\propertypathhelpers.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

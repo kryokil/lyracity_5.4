@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\hoverdrone\\source\\hoverdrone\\private\\hoverdronepawnbase.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\hoverdrone\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hoverdrone\\definitions.hoverdrone.h",
+            "g:\\lyracity_5.4\\plugins\\hoverdrone\\source\\hoverdrone\\public\\hoverdronepawnbase.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\spectatorpawn.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\defaultpawn.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\defaultpawn.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spectatorpawn.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "g:\\lyracity_5.4\\plugins\\hoverdrone\\intermediate\\build\\win64\\unrealeditor\\inc\\hoverdrone\\uht\\hoverdronepawnbase.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

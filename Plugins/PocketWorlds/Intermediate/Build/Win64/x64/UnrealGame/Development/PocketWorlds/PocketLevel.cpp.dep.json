@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\pocketworlds\\source\\private\\pocketlevel.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\pocketworlds\\intermediate\\build\\win64\\x64\\unrealgame\\development\\pocketworlds\\definitions.pocketworlds.h",
+            "g:\\lyracity_5.4\\plugins\\pocketworlds\\source\\public\\pocketlevel.h",
+            "g:\\lyracity_5.4\\plugins\\pocketworlds\\intermediate\\build\\win64\\unrealgame\\inc\\pocketworlds\\uht\\pocketlevel.generated.h",
+            "g:\\lyracity_5.4\\plugins\\pocketworlds\\intermediate\\build\\win64\\unrealgame\\inc\\pocketworlds\\uht\\pocketlevel.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

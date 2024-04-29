@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\traffic\\source\\masstraffic\\private\\masstrafficlightweightmontageinstance.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\traffic\\intermediate\\build\\win64\\x64\\unrealgame\\development\\masstraffic\\definitions.masstraffic.h",
+            "g:\\lyracity_5.4\\plugins\\traffic\\source\\masstraffic\\public\\masstrafficlightweightmontageinstance.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

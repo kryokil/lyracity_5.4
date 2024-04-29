@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\citysample\\module.citysample.9.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\citysample\\definitions.citysample.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealeditor\\inc\\citysample\\uht\\icitysampletraversalinterface.gen.cpp",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\game\\icitysampletraversalinterface.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\util\\citysampletypes.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealeditor\\inc\\citysample\\uht\\citysampletypes.generated.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealeditor\\inc\\citysample\\uht\\icitysampletraversalinterface.generated.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealeditor\\inc\\citysample\\uht\\loadingutillibrary.gen.cpp",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\util\\loadingutillibrary.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealeditor\\inc\\citysample\\uht\\loadingutillibrary.generated.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealeditor\\inc\\citysample\\uht\\photomodecomponent.gen.cpp",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\camera\\photomodecomponent.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\util\\citysampleinterpolators.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealeditor\\inc\\citysample\\uht\\citysampleinterpolators.generated.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealeditor\\inc\\citysample\\uht\\photomodecomponent.generated.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealeditor\\inc\\citysample\\uht\\rootmotionmodifier_citysamplesimplewarp.gen.cpp",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\anim\\rootmotionmodifier_citysamplesimplewarp.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\animation\\motionwarping\\source\\motionwarping\\public\\rootmotionmodifier.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\animation\\motionwarping\\intermediate\\build\\win64\\unrealeditor\\inc\\motionwarping\\uht\\rootmotionmodifier.generated.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealeditor\\inc\\citysample\\uht\\rootmotionmodifier_citysamplesimplewarp.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

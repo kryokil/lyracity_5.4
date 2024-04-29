@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\traffic\\source\\masstrafficeditor\\private\\masstrafficeditorfunctionlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\traffic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\masstrafficeditor\\definitions.masstrafficeditor.h",
+            "g:\\lyracity_5.4\\plugins\\traffic\\source\\masstrafficeditor\\public\\masstrafficeditorfunctionlibrary.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zonegraphtypes.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zonegraphbvtree.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zonegraphbvtree.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zonegraphtypes.generated.h",
+            "g:\\lyracity_5.4\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstrafficeditor\\uht\\masstrafficeditorfunctionlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

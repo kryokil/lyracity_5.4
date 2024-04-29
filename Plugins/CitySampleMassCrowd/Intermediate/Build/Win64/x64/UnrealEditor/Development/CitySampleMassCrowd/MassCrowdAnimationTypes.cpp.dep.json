@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\citysamplemasscrowd\\source\\citysamplemasscrowd\\private\\masscrowdanimationtypes.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\citysamplemasscrowd\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\citysamplemasscrowd\\definitions.citysamplemasscrowd.h",
+            "g:\\lyracity_5.4\\plugins\\citysamplemasscrowd\\source\\citysamplemasscrowd\\public\\masscrowdanimationtypes.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\animation\\contextualanimation\\source\\contextualanimation\\public\\contextualanimsceneasset.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\animation\\contextualanimation\\source\\contextualanimation\\public\\contextualanimtypes.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\animation\\contextualanimation\\intermediate\\build\\win64\\unrealeditor\\inc\\contextualanimation\\uht\\contextualanimtypes.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\animation\\contextualanimation\\intermediate\\build\\win64\\unrealeditor\\inc\\contextualanimation\\uht\\contextualanimsceneasset.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massgameplay\\source\\masscommon\\public\\masscommonfragments.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massentity\\source\\massentity\\public\\massentitytypes.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\source\\structutils\\public\\structtypebitset.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\source\\structutils\\public\\structutilstypes.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\source\\structutils\\public\\instancedstruct.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\source\\structutils\\public\\structutils.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\intermediate\\build\\win64\\unrealeditor\\inc\\structutils\\uht\\instancedstruct.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massentity\\source\\massentity\\public\\massprocessingtypes.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massentity\\intermediate\\build\\win64\\unrealeditor\\inc\\massentity\\uht\\massprocessingtypes.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\source\\structutils\\public\\structarrayview.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\source\\structutils\\public\\structview.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\source\\structutils\\public\\sharedstruct.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\intermediate\\build\\win64\\unrealeditor\\inc\\structutils\\uht\\sharedstruct.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massentity\\source\\massentity\\public\\massexternalsubsystemtraits.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massentity\\intermediate\\build\\win64\\unrealeditor\\inc\\massentity\\uht\\massentitytypes.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massgameplay\\intermediate\\build\\win64\\unrealeditor\\inc\\masscommon\\uht\\masscommonfragments.generated.h",
+            "g:\\lyracity_5.4\\plugins\\traffic\\source\\masstraffic\\public\\masstrafficlightweightmontageinstance.h",
+            "g:\\lyracity_5.4\\plugins\\citysamplemasscrowd\\intermediate\\build\\win64\\unrealeditor\\inc\\citysamplemasscrowd\\uht\\masscrowdanimationtypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

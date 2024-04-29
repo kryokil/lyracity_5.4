@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UIExtension.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\lyracity_5.4\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"G:\lyracity_5.4\Plugins\UIExtension\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIExtension\Module.UIExtension.cpp.obj"
+"G:\lyracity_5.4\Plugins\UIExtension\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIExtension\LogUIExtension.cpp.obj"
+"G:\lyracity_5.4\Plugins\UIExtension\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIExtension\UIExtensionModule.cpp.obj"
+"G:\lyracity_5.4\Plugins\UIExtension\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIExtension\UIExtensionSystem.cpp.obj"
+"G:\lyracity_5.4\Plugins\UIExtension\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIExtension\UIExtensionPointWidget.cpp.obj"
+"G:\lyracity_5.4\Plugins\UIExtension\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIExtension\Default.rc2.res"
+/OUT:"G:\lyracity_5.4\Plugins\UIExtension\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIExtension\UnrealEditor-UIExtension.lib"

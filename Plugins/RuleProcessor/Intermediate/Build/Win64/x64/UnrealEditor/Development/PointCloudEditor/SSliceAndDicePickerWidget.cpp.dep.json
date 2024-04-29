@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloudeditor\\private\\widgets\\ssliceanddicepickerwidget.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pointcloudeditor\\definitions.pointcloudeditor.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloudeditor\\private\\widgets\\ssliceanddicepickerwidget.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\suniformgridpanel.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

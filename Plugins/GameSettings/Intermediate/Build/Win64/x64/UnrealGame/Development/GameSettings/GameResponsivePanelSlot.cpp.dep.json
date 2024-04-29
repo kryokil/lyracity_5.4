@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\private\\widgets\\responsive\\gameresponsivepanelslot.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\intermediate\\build\\win64\\x64\\unrealgame\\development\\gamesettings\\definitions.gamesettings.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\private\\widgets\\responsive\\gameresponsivepanelslot.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\panelslot.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\visual.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\visual.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\panelslot.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\source\\private\\widgets\\responsive\\sgameresponsivepanel.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealgame\\inc\\gamesettings\\uht\\gameresponsivepanelslot.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\widget.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\fieldnotificationdeclaration.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\ifieldnotificationclassdescriptor.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\inotifyfieldvaluechanged.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\fieldnotification\\uht\\inotifyfieldvaluechanged.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\slatewrappertypes.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\slatewrappertypes.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\slate\\widgettransform.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\widgettransform.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetnavigation.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\types\\navigationmetadata.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\widgetnavigation.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\widget.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamesettings\\intermediate\\build\\win64\\unrealgame\\inc\\gamesettings\\uht\\gameresponsivepanelslot.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

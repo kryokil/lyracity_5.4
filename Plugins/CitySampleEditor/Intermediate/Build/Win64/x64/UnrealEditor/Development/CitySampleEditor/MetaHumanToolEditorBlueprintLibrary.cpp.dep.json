@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\citysampleeditor\\source\\citysampleeditor\\private\\metahumans\\metahumantooleditorblueprintlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\citysampleeditor\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\citysampleeditor\\definitions.citysampleeditor.h",
+            "g:\\lyracity_5.4\\plugins\\citysampleeditor\\source\\citysampleeditor\\public\\metahumans\\metahumantooleditorblueprintlibrary.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\animgraphruntime\\public\\animnodes\\animnode_posedriver.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\animgraphruntime\\public\\animnodes\\animnode_posehandler.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\animation\\poseasset.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\poseasset.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\animation\\animnode_assetplayerbase.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\animation\\animnode_relevantassetplayerbase.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animnode_relevantassetplayerbase.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animnode_assetplayerbase.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraphruntime\\uht\\animnode_posehandler.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\animgraphruntime\\public\\rbf\\rbfsolver.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraphruntime\\uht\\rbfsolver.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraphruntime\\uht\\animnode_posedriver.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\editorreimporthandler.h",
+            "g:\\lyracity_5.4\\plugins\\citysampleeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\citysampleeditor\\uht\\metahumantooleditorblueprintlibrary.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\editor\\animgraph\\public\\animgraphnode_posedriver.h",
+            "e:\\games\\ue_5.4\\engine\\source\\editor\\animgraph\\public\\animgraphnode_posehandler.h",
+            "e:\\games\\ue_5.4\\engine\\source\\editor\\animgraph\\public\\animgraphnode_assetplayerbase.h",
+            "e:\\games\\ue_5.4\\engine\\source\\editor\\animgraph\\public\\animgraphnode_base.h",
+            "e:\\games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\ipropertyaccesseditor.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraph\\uht\\animgraphnode_base.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraph\\uht\\animgraphnode_assetplayerbase.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraph\\uht\\animgraphnode_posehandler.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraph\\uht\\animgraphnode_posedriver.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\editor\\animgraph\\public\\animationgraph.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\animgraph\\uht\\animationgraph.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

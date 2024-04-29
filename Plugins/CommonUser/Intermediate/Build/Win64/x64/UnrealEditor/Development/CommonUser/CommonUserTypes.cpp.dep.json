@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\commonuser\\source\\commonuser\\private\\commonusertypes.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\commonuser\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commonuser\\definitions.commonuser.h",
+            "g:\\lyracity_5.4\\plugins\\commonuser\\source\\commonuser\\public\\commonusertypes.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "g:\\lyracity_5.4\\plugins\\commonuser\\intermediate\\build\\win64\\unrealeditor\\inc\\commonuser\\uht\\commonusertypes.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlineerror.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

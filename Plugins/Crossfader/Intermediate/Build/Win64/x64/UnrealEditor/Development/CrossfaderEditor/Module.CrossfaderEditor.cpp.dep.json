@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\crossfader\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crossfadereditor\\module.crossfadereditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\crossfader\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crossfadereditor\\definitions.crossfadereditor.h",
+            "g:\\lyracity_5.4\\plugins\\crossfader\\intermediate\\build\\win64\\unrealeditor\\inc\\crossfadereditor\\uht\\crossfadereditor.init.gen.cpp",
+            "g:\\lyracity_5.4\\plugins\\crossfader\\intermediate\\build\\win64\\unrealeditor\\inc\\crossfadereditor\\uht\\mixstatebankfactory.gen.cpp",
+            "g:\\lyracity_5.4\\plugins\\crossfader\\source\\crossfadereditor\\private\\mixstatebankfactory.h",
+            "g:\\lyracity_5.4\\plugins\\crossfader\\intermediate\\build\\win64\\unrealeditor\\inc\\crossfadereditor\\uht\\mixstatebankfactory.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

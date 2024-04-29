@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\citysamplesensorgrid\\source\\citysamplesensorgrid\\private\\citysamplesensorgrid.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\citysamplesensorgrid\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\citysamplesensorgrid\\definitions.citysamplesensorgrid.h",
+            "g:\\lyracity_5.4\\plugins\\citysamplesensorgrid\\source\\citysamplesensorgrid\\public\\citysamplesensorgrid.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\versescope.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

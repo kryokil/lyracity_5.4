@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\gamesubtitles\\source\\private\\widgets\\subtitledisplay.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamesubtitles\\definitions.gamesubtitles.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\source\\public\\widgets\\subtitledisplay.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\widget.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\fieldnotificationdeclaration.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\ifieldnotificationclassdescriptor.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\inotifyfieldvaluechanged.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\fieldnotification\\uht\\inotifyfieldvaluechanged.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\visual.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\visual.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\slatewrappertypes.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\slatewrappertypes.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\slate\\widgettransform.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgettransform.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetnavigation.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\types\\navigationmetadata.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetnavigation.generated.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widget.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\source\\public\\subtitledisplaysubsystem.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\source\\public\\subtitledisplayoptions.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesubtitles\\uht\\subtitledisplayoptions.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesubtitles\\uht\\subtitledisplaysubsystem.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesubtitles\\uht\\subtitledisplay.generated.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\source\\public\\widgets\\ssubtitledisplay.h",
+            "g:\\lyracity_5.4\\plugins\\gamesubtitles\\intermediate\\build\\win64\\unrealeditor\\inc\\gamesubtitles\\uht\\subtitledisplay.gen.cpp",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\editor\\widgetcompilerlog.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

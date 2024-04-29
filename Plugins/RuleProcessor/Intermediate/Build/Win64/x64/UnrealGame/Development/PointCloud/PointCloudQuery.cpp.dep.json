@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\private\\pointcloudquery.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\intermediate\\build\\win64\\x64\\unrealgame\\development\\pointcloud\\definitions.pointcloud.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\private\\pointcloudquery.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloudimpl.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloud.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloudconfig.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\intermediate\\build\\win64\\unrealgame\\inc\\pointcloud\\uht\\pointcloud.generated.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloudsqlitehelpers.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloudtablescache.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\containers\\lrucache.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\intermediate\\build\\win64\\unrealgame\\inc\\pointcloud\\uht\\pointcloudimpl.generated.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\private\\pointcloudutils.h",
+            "g:\\lyracity_5.4\\plugins\\ruleprocessor\\source\\pointcloud\\private\\pointcloudsqlextensions.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\database\\sqlitecore\\source\\sqlitecore\\public\\includesqlite.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\database\\sqlitecore\\source\\sqlitecore\\public\\sqlite\\sqlite3.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\private\\util\\loadingutillibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\x64\\unrealgame\\development\\citysample\\definitions.citysample.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\source\\citysample\\public\\util\\loadingutillibrary.h",
+            "g:\\lyracity_5.4\\plugins\\citysample\\intermediate\\build\\win64\\unrealgame\\inc\\citysample\\uht\\loadingutillibrary.generated.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\coresettings.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\coresettings.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massgameplay\\source\\masssimulation\\public\\masssimulationsettings.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massentity\\source\\massentity\\public\\masssettings.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massentity\\intermediate\\build\\win64\\unrealgame\\inc\\massentity\\uht\\masssettings.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massgameplay\\intermediate\\build\\win64\\unrealgame\\inc\\masssimulation\\uht\\masssimulationsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\private\\worldaudiodataclusteractor.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\intermediate\\build\\win64\\x64\\unrealgame\\development\\worldaudiodatasystem\\definitions.worldaudiodatasystem.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\public\\worldaudiodataclusteractor.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\intermediate\\build\\win64\\unrealgame\\inc\\worldaudiodatasystem\\uht\\worldaudiodataclusteractor.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\soundscape\\source\\soundscape\\public\\soundscapesubsystem.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\soundscape\\source\\soundscape\\public\\soundscapecolorpoint.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\soundscape\\intermediate\\build\\win64\\unrealgame\\inc\\soundscape\\uht\\soundscapecolorpoint.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\soundscape\\intermediate\\build\\win64\\unrealgame\\inc\\soundscape\\uht\\soundscapesubsystem.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\soundscape\\source\\soundscape\\public\\soundscapesettings.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\soundscape\\intermediate\\build\\win64\\unrealgame\\inc\\soundscape\\uht\\soundscapesettings.generated.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\public\\worldaudiodatasubsystem.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\public\\worldaudiodatagameplayscript.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\intermediate\\build\\win64\\unrealgame\\inc\\worldaudiodatasystem\\uht\\worldaudiodatagameplayscript.generated.h",
+            "e:\\games\\ue_5.4\\engine\\plugins\\runtime\\massentity\\source\\massentity\\public\\massexternalsubsystemtraits.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\intermediate\\build\\win64\\unrealgame\\inc\\worldaudiodatasystem\\uht\\worldaudiodatasubsystem.generated.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\public\\worldaudiodatasystem.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\source\\worldaudiodatasystem\\public\\worldaudiodatasettings.h",
+            "g:\\lyracity_5.4\\plugins\\worldaudiodatasystem\\intermediate\\build\\win64\\unrealgame\\inc\\worldaudiodatasystem\\uht\\worldaudiodatasettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

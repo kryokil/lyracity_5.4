@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity_5.4\\plugins\\crossfader\\source\\crossfader\\private\\crossfader.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity_5.4\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity_5.4\\plugins\\crossfader\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\crossfader\\definitions.crossfader.h",
+            "g:\\lyracity_5.4\\plugins\\crossfader\\source\\crossfader\\public\\crossfader.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
